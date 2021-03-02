@@ -1,8 +1,6 @@
 /**
-* Template Name: Flattern - v2.2.1
-* Template URL: https://bootstrapmade.com/flattern-multipurpose-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Template Name: DashWeb
+* Author: Thapelo Khantsi
 */
 !(function($) {
   "use strict";
